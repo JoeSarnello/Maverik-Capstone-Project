@@ -1,4 +1,4 @@
-maverik.png
+![maverik.png](./maverik.png)
 # Maverik Time Series Forecasting Project
 
 ## Business Problem and Objective
